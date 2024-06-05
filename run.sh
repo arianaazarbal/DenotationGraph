@@ -1,6 +1,6 @@
 #!/bin/bash
 
-graph_name="mpe_test_corpus"
+graph_name="coco_corpus"
 corpus_dir="corpora"
 preprocess_dir="preprocessing"
 num_cores_parser=12
